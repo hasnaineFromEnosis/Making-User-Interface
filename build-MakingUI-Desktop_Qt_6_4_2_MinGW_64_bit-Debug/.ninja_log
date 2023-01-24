@@ -1,45 +1,21 @@
 # ninja log v5
-1	119	6962583793163810	.qt_plugins/Qt6_QmlPlugins_Imports_MakingUI.cmake	b024bb9321f82ed0
 1	119	6962583793163810	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_MakingUI.cmake	b024bb9321f82ed0
+1	119	6962583793163810	.qt_plugins/Qt6_QmlPlugins_Imports_MakingUI.cmake	b024bb9321f82ed0
+53	98	6962661469306961	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
 120	302	6962583794130502	MakingUI_autogen/timestamp	5b8c52ee3f555228
+4	52	6962661468809333	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
 120	302	6962583794130502	MakingUI_autogen/mocs_compilation.cpp	5b8c52ee3f555228
 120	302	6962583794130502	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/timestamp	5b8c52ee3f555228
 120	302	6962583794130502	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/mocs_compilation.cpp	5b8c52ee3f555228
-303	354	6962583795505406	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-303	354	6962583795505406	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
+4	52	6962661468809333	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
 354	405	6962583796032886	CMakeFiles/MakingUI.dir/MakingUI_autogen/mocs_compilation.cpp.obj	6b704156b46cf99
-357	409	6962583796073972	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
 360	1774	6962583809710995	CMakeFiles/MakingUI.dir/main.cpp.obj	d626f91e8d4d6212
-1781	1904	6962583810986754	MakingUI.exe	e0283d15d2b0256d
-10	65	6962583989219332	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-10	65	6962583989219332	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-65	110	6962583989703641	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-110	235	6962583990899304	MakingUI.exe	e0283d15d2b0256d
-4	53	6962584067144165	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	53	6962584067144165	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-53	99	6962584067644984	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-99	222	6962584068832082	MakingUI.exe	e0283d15d2b0256d
-4	52	6962584403407670	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	52	6962584403407670	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-52	98	6962584403877523	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-98	239	6962584405273723	MakingUI.exe	e0283d15d2b0256d
-4	53	6962584528437118	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	53	6962584528437118	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-53	100	6962584528945891	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-100	225	6962584530140136	MakingUI.exe	e0283d15d2b0256d
-4	53	6962584635160585	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	53	6962584635160585	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-53	100	6962584635671560	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-101	225	6962584636887363	MakingUI.exe	e0283d15d2b0256d
-4	50	6962584881111984	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	50	6962584881111984	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-50	95	6962584881600025	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-95	219	6962584882804802	MakingUI.exe	e0283d15d2b0256d
-4	52	6962585258840027	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-4	52	6962585258840027	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-52	97	6962585259329837	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-98	222	6962585260522534	MakingUI.exe	e0283d15d2b0256d
-5	56	6962585365565232	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-5	56	6962585365565232	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
-56	102	6962585366068818	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
-103	225	6962585367265225	MakingUI.exe	e0283d15d2b0256d
+99	218	6962661470458918	MakingUI.exe	e0283d15d2b0256d
+3	57	6962661760837576	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
+3	57	6962661760837576	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
+57	108	6962661761393628	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
+109	241	6962661762663298	MakingUI.exe	e0283d15d2b0256d
+5	60	6962661823663187	MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
+5	60	6962661823663187	C:/Users/hasnaine/Documents/QT Practice/Making User Interface/build-MakingUI-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp	733fe20e2411e0c9
+61	109	6962661824192143	CMakeFiles/MakingUI.dir/MakingUI_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a0779486b2b24d0f
+109	238	6962661825435307	MakingUI.exe	e0283d15d2b0256d
