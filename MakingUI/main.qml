@@ -8,7 +8,7 @@ Window {
     title: qsTr("Making UI")
 
     Rectangle {
-        width: 400; height: 400
+        width: 200; height: 200
         border.color: "black"
 
         Rectangle {
@@ -33,6 +33,25 @@ Window {
             width: 30
             height: 30
             color: "green"
+        }
+    }
+
+    Item {
+        width: 350; height: 300
+        y:200
+//        clip: true
+
+        Row { // The "Row" type lays out its child items in a horizontal line
+            spacing: 20 // Places 20px of space between items
+
+            Rectangle { width: 80; height: 80; color: "red" }
+            Rectangle { width: 80; height: 180; color: "green" }
+            Rectangle { width: 80; height: 80; color: "blue" }
+
+            Rectangle { width: 80; height: 80; color: "red" }
+            Rectangle { width: 80; height: 180; color: "green" }
+            Rectangle { width: 80; height: 80; color: "blue" }
+
         }
     }
 }
