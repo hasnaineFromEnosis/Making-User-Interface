@@ -41,7 +41,8 @@ Window {
     Item {
         width: 350; height: 100
         y:200
-//        clip: true
+        clip: true
+        id: rowItem
 
         Row { // The "Row" type lays out its child items in a horizontal line
             spacing: 20 // Places 20px of space between items
@@ -61,20 +62,25 @@ Window {
         id: gridBox
         title: "Grid layout"
         Layout.fillWidth: true
-        y: 400
+        anchors.top: rowItem.bottom
+        anchors.margins: 0
+        clip: true
 
         GridLayout {
             id: gridLayout
             rows: 3
             flow: GridLayout.TopToBottom
             anchors.fill: parent
+
+
             Label { text: "Line 1" }
             Label { text: "Line 2" }
             Label { text: "Line 3" }
 
+            TextField { text: "firstone"}
             TextField { }
             TextField { }
-            TextField { }
+
 
             TextArea {
                 text: "This widget spans over three rows in the GridLayout.\n"
